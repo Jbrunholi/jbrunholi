@@ -4,7 +4,7 @@ Enthusiast of science, technology and coding 🔭🖥📄
 
 ## About me
 - 💻 Graduating in Computer Engineering at Univesp.
-- 🗺 Bachelor's Degree in Geography from Unesp.
+- 🗺 Bachelor's Degree in Geography - FCT Unesp.
 - 📚 I’m currently learning Python and everything about Data Science.
 - 🏡 I’m from Campinas, SP - Brazil
 
@@ -14,6 +14,6 @@ Enthusiast of science, technology and coding 🔭🖥📄
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-brunholi/)](https://www.linkedin.com/in/jonathan-brunholi/)
 
-- Thanks for visiting.
+- Thanks for visiting!
 
 - Enjoy it!! o/
