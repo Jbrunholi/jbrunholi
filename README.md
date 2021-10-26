@@ -5,7 +5,7 @@ Enthusiast of science, technology and coding 🔭🖥📄
 ## About me
 - 💻 Graduating in Computer Engineering at Univesp.
 - 🗺 Bachelor's Degree in Geography - FCT Unesp.
-- 📚 I’m currently learning Python and everything about Data Science.
+- 📚 I’m currently learning Python, Machine Learning and everything about Data Science.
 - 🏡 I’m from Campinas, SP - Brazil
 
 
