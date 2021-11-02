@@ -1,6 +1,6 @@
 # <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Hello World! I'm Jonathan Brunholi!
 
-Enthusiast of science, technology and coding 🔭🖥📄
+Enthusiast of science, lover of technology and coding...!!! 🔭🖥📄
 
 ## About me
 - 💻 Graduating in Computer Engineering at Univesp.
