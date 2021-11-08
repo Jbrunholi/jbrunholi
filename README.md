@@ -18,7 +18,7 @@
 ##
 
 - 💻 Graduating in Computer Engineering at Univesp.
-- 🗺 Bachelor's Degree in Geography - FCT Unesp.
+- 🗺 Bachelor's Degree in Geography at Unesp.
 - 📚 I’m currently learning Python, Machine Learning and everything about Data Science.
 - 🏡 I’m from Campinas, SP - Brazil
 
