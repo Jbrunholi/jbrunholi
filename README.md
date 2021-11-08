@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi all <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> I'm Jonathan Brunholi!
+  Hi all! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="25"> I'm Jonathan Brunholi!
 </h1> 
 
 <p align='center'>
@@ -7,14 +7,12 @@
 </p>
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/jonathan-brunholi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jbnasc90">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 ##
@@ -23,6 +21,7 @@
 - 🗺 Bachelor's Degree in Geography - FCT Unesp.
 - 📚 I’m currently learning Python, Machine Learning and everything about Data Science.
 - 🏡 I’m from Campinas, SP - Brazil
+
 ##
 
 <p align='center'>
@@ -42,9 +41,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:cojonathanbnasc@gmail.com'>jonathanbnasc@gmail.com</a>
@@ -52,10 +53,42 @@
 
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
 
-- Thanks for visiting!
+<details>
+  <summary>📃 Resume</summary>
+  
+  
+  ## Education
+  
+  - 📖 **Bachelor's in Geography**\
+📆 2010 - 2014\
+📍 **São Paulo State University - FCT Unesp** - Presidente Prudente, Brazil
+    
+  - 📖 **Computer engineering**\
+📆 2020 - 2024\
+📍 **São Paulo State Virtual University** - Campinas, Brazil
+  
 
-- Enjoy it!! o/
+  ## Experience  
+
+  - 👨‍💻 **Sales Representative and Incompany Consultant**\
+📆 2021 - moment\
+📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
+  </details>
+
+#
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/jbrunholi/jbrunholi"></a> devs and nerds have come here o/
+</p>
+
+
+<p align='center'>
+  - Thanks for visiting!
+</p>
+<p align='center'>  
+  - Enjoy it!! o/
+</p>
