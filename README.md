@@ -74,7 +74,7 @@
 
   ## Experience  
 
-  - 👨‍💻 **Sales Representative and Incompany Consultant**\
+  - 👨‍💻 **Sales Representative and DevOps Incompany Consultant**\
 📆 2021 - moment\
 📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
   </details>
@@ -87,8 +87,8 @@
 
 
 <p align='center'>
-  - Thanks for visiting!
+ Thanks for visiting!
 </p>
 <p align='center'>  
-  - Enjoy it!! o/
+ Enjoy it!! o/
 </p>
