@@ -30,7 +30,7 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -40,7 +40,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ##
@@ -64,38 +65,39 @@
 
 
 <p align='center'>
-  Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my Github page? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
 
-<details>
-  <summary>📃 Resume</summary>
-  
-  
-  ## Education
-  
-  - 📖 **Bachelor's in Geography**\
-📆 2010 - 2014\
-📍 **São Paulo State University - FCT Unesp** - Presidente Prudente, Brazil
-    
-  - 📖 **Computer engineering**\
-📆 2020 - 2024\
-📍 **São Paulo State Virtual University** - Campinas, Brazil
-  
 
-  ## Experience  
-
-  - 👨‍💻 **Sales Representative and DevOps Incompany Consultant**\
-📆 2021 - moment\
-📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
-  </details>
-
-#
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/jbrunholi/jbrunholi"></a> devs and nerds have come here o/
 </p>
 
+<details>
+  <summary>📃 Education</summary>
+      
+  - 📖 **Bachelor's in Geography**\
+📆 2010 - 2014\
+📍 **São Paulo State University - FCT UNESP** - Presidente Prudente, Brazil
+    
+  - 📖 **Computer Engineering**\
+📆 2020 - 2024\
+📍 **São Paulo State Virtual University - UNIVESP** - Campinas, Brazil
+ </details> 
+
+<details>
+  <summary>📃 Experience</summary>
+  
+  - 👨‍💻 **Sales Representative and DevOps Incompany Consultant**\
+📆 2021 - 2022\
+📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
+  
+  - 👨‍💻 **Full-Stack Developer** - Remote\
+📆 2021 - moment\
+📍 **KHIPO LTDA** - São Paulo/SP, Brazil
+</details>
 
 <p align='center'>
  Thanks for visiting!
