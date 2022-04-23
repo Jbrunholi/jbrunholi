@@ -50,8 +50,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jbrunholi&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbrunholi)](https://github.com/Jbrunholi/github-readme-stats)
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbrunholi&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
