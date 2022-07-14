@@ -24,7 +24,7 @@
 - 💻 Graduating in Computer Engineering at Univesp.
 - 🗺 Bachelor's Degree in Geography at Unesp.
 - 📚 Currently I work with the support and implementation of new services in a legacy system in VB.Net, MVC, C#, ASP.Net, Javascript and MSSQL Database.
-- 🏡 I’m from Campinas, SP - Brazil
+- 🏡 I’m from Araçatuba, SP - Brazil
 
 ##
 
