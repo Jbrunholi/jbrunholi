@@ -95,8 +95,12 @@
 📍 **HNZ IT Consulting and Training** - Campinas/SP, Brazil
   
   - 👨‍💻 **Full-Stack Developer** - Remote\
-📆 2021 - moment\
-📍 **KHIPO LTDA** - São Paulo/SP, Brazil
+📆 2021 - 2022\
+📍 **Khipo LTDA** - São Paulo/SP, Brazil
+  
+  - 👨‍💻 **Full-Stack Developer** - Remote\
+📆 2022 - today\
+📍 **Tecnologia Única** - São Paulo/SP, Brazil
 </details>
 
 <p align='center'>
