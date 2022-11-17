@@ -72,10 +72,6 @@
 
 
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/jbrunholi/jbrunholi"></a> devs and nerds have come here o/
-</p>
-
 <details>
   <summary>📃 Education</summary>
       
